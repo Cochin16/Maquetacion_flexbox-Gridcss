@@ -1,0 +1,131 @@
+.fondopagina{
+    /*primera parte*/
+    width: 65rem;
+    height: 55rem;
+    background-color: blanchedalmond;
+    position: relative;
+    left: 40rem;
+  
+}
+.parte1{
+    background-color: #87959A;
+    width: 100%;
+    height: 5rem;
+    margin: 5rem 0rem 0rem 0rem; 
+    
+    display: flex;
+    flex-direction: row;
+}
+.puntorojo{
+    width: 20px;
+    height: 2rem;
+    background-color: red;
+    margin: 1rem 2rem 6rem 2rem;
+    border-top-left-radius: 50% 50%;
+    border-top-right-radius: 50% 50%;
+    border-bottom-right-radius: 50% 50%;
+    border-bottom-left-radius: 50% 50%;
+}
+.puntoamarillo{
+    width: 20px;
+    height: 2rem;
+    background-color: orangered;
+    margin: 1rem 0rem 0rem 0rem;
+    border-top-left-radius: 50% 50%;
+    border-top-right-radius: 50% 50%;
+    border-bottom-right-radius: 50% 50%;
+    border-bottom-left-radius: 50% 50%;
+    
+}
+.puntoverde{
+    width: 20px;
+    height: 2rem;
+    background-color: #04F204;
+    margin: 1rem 0rem 0rem 2rem;
+    border-top-left-radius: 50% 50%;
+    border-top-right-radius: 50% 50%;
+    border-bottom-right-radius: 50% 50%;
+    border-bottom-left-radius: 50% 50%;
+}
+.parte2{
+    display: flex;
+    flex-direction: row;
+}
+.rojoizquierdo{
+    background-color: #F5492D;
+    width: 400px;
+    height: 8rem;
+    margin: 1rem 0rem 0rem 1rem;
+
+}
+.rojoderecho{
+    background-color: #F5492D;
+    width: 170px;
+    height: 8rem;
+    margin: 1rem rem 0rem 1rem;
+    position: relative;
+    left: 1rem;
+    top: 1rem;
+    
+}
+.parte3{
+    display: flex;
+    flex-direction: row;
+    
+}
+.amarilloizquierdo{
+    background-color: yellow;
+    width: 650px;
+    height: 25rem;
+    position: relative;
+    left: 1rem;
+    top: 1rem;
+    
+}
+.moradoarriba{
+    background-color: #B121FF;
+    width: 322px;
+    height: 12rem;
+    position: relative;
+    left: 2rem;
+    top: 1rem;
+}
+.moradoabajo{
+    background-color: #B121FF;
+    width: 322px;
+    height: 12rem;
+    position: relative;
+    right: 13rem;
+    top: 14rem;
+}
+.parte4{
+    display: flex;
+    flex-direction: row;
+}
+.azulizquierdo{
+    background-color: #21BBFF;
+    width: 204px;
+    height: 10rem;
+    margin: 1rem rem 0rem 1rem;
+    position: relative;
+    left: 1rem;
+    top: 2rem;
+}
+.azulmedio{
+    background-color: #21BBFF;
+    width: 185px;
+    height: 10rem;
+    margin: 1rem rem 0rem 1rem;
+    position: relative;
+    left: 2rem;
+    top: 2rem;
+}
+.azulderecho{
+    background-color: #21BBFF;
+    width: 175px;
+    height: 10rem;
+    margin: 1rem rem 0rem 1rem;
+    position: relative;
+    left: 3rem;
+    top: 2rem;
+}
